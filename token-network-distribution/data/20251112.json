@@ -17,6 +17,7 @@
                     "network": "base"
                 }
             ],
+            "wallets": ["metamask","binance","trust"],
             "UCID": "2467"
         },
         {
@@ -36,6 +37,7 @@
                     "network": "base"
                 }
             ],
+            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34812"
         },
         {
@@ -47,6 +49,7 @@
                     "network": "solana"
                 }
             ],
+            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34880"
         },
         {
@@ -58,6 +61,7 @@
                     "network": "solana"
                 }
             ],
+            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
         "UCID": "35216"
         },
         {
@@ -73,6 +77,8 @@
                     "network": "base"
                 }
             ],
+            "wallets": ["coinbase","metamask",
+            "ledger","trust","binance"],
             "UCID": "27054"
         },
         {
@@ -85,6 +91,7 @@
                 },
                 {"address": "0x1d0Ac23F03870f768ca005c84cBb6FB82aa884fD","network":"bsc"}
             ],
+            "wallets": ["metamask","binance","trust"],
             "UCID": "18662"
         },
         {
@@ -96,6 +103,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["trust", "binance"],
             "UCID": "22858"
         },
         {
@@ -109,6 +117,8 @@
                 {"address": "growFDf9teg9gwVTTY3DgpPXU31qBrnbSQCqtY2vkR8","network":"solana"},
                 {"address": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C","network":"base"}
             ],
+            "wallets": ["coinbase", "metamask", "phantom","rabby","solflare", "backpack",
+            "trust","binance", "jupiter"],
             "UCID": "29633"
         },
         {
@@ -120,6 +130,8 @@
                     "network": "solana"
                 }
             ],
+            "wallets": ["trust",
+        "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34089"
         },
         {
@@ -138,6 +150,7 @@
                     "network": "cardano"
                 }
             ],
+            "wallets": ["daedalus","lace","eternl","vespr","binance","trust"],
             "UCID": "23769"
         },
         {
@@ -149,6 +162,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["metamask","binance","trust"],
             "UCID": "6933"
         },
         {
@@ -160,6 +174,7 @@
                     "network": "base"
                 }
             ],
+            "wallets": ["trust"],
             "UCID": "34636"
         },
         {
@@ -171,6 +186,7 @@
                     "network": "solana"
                 }
             ],
+            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34090"
         },
         {
@@ -182,6 +198,7 @@
                     "network": "polygon"
                 }
             ],
+            "wallets": ["trust"],
             "UCID": "23684"
         },
         {
@@ -193,6 +210,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["binance","trust"],
             "UCID": "34418"
         },
         {
@@ -200,6 +218,7 @@
             "symbol": "CIRX",
             "contracts": [
             ],
+            "wallets": [],
             "UCID": "32319"
         },
         {
@@ -211,6 +230,7 @@
                     "network": "base"
                 }
             ],
+            "wallets": ["trust"],
             "UCID": "34102"
         },
         {
@@ -222,6 +242,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["gnosis","binance","trust"],
             "UCID": "29557"
         },
         {
@@ -233,6 +254,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["metamask","binance","trust"],
             "UCID": "19214"
         },
         {
@@ -240,6 +262,7 @@
             "symbol": "ETI",
             "contracts": [
             ],
+            "wallets": [],
             "UCID": "24618"
         },
         {
@@ -251,6 +274,7 @@
                     "network": "base"
                 }
             ],
+            "wallets": ["trust"],
             "UCID": "15169"
         },
         {
@@ -262,6 +286,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["binance","trust"],
             "UCID": "24138"
         },
         {
@@ -273,6 +298,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["binance","trust"],
             "UCID": "23157"
         },
         {
@@ -286,6 +312,9 @@
                 {"address": "0x3568c7a4f7545805e379c264303239781B4E9A79","network":"base"},
                 {"address": "neuRodi6Saw2cwDpud7FyAcjzqPBJDtr3fDTXE2Fu4j","network":"solana"}
             ],
+            "wallets": ["solflare",
+            "backpack","phantom","binance", 
+            "trust","jupiter"],
             "UCID": "31961"
         },
         {
@@ -297,6 +326,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["metamask","binance","trust"],
             "UCID": "1708"
         },
         {
@@ -308,6 +338,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["binance","trust"],
             "UCID": "33949"
         },
         {
@@ -319,6 +350,7 @@
                     "network": "solana"
                 }
             ],
+            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34188"
         },
         {
@@ -330,6 +362,7 @@
                     "network": "solana"
                 }
             ],
+            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34329"
         },
         {
@@ -341,6 +374,7 @@
                     "network": "bsc"
                 }
             ],
+            "wallets": ["binance","trust"],
             "UCID": "34560"
         },
         {
@@ -352,6 +386,7 @@
                     "network": "solana"
                 }
             ],
+            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34817"
         },
         {
@@ -364,6 +399,7 @@
                 },
                 {"address": "0xAEc613188B1E178d42a05d352044D54854C3196a","network":"ethereum"}
             ],
+            "wallets": ["trust", "binance"],
             "UCID": "34882"
         },
         {
@@ -375,6 +411,7 @@
                     "network": "ethereum"
                 }
             ],
+            "wallets": ["binance","trust"],
             "UCID": "34952"
         },
         {
@@ -386,6 +423,7 @@
                     "network": "bsc"
                 }
             ],
+            "wallets": ["binance","trust"],
             "UCID": "34957"
         },
         {
@@ -398,6 +436,7 @@
                 },
                 {"address": "0xAEc613188B1E178d42a05d352044D54854C3196a","network":"ethereum"}
             ],
+            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "35013"
         },
         {
@@ -409,6 +448,7 @@
                     "network": "base"
                 }
             ],
+            "wallets": ["trust"],
             "UCID": "35024"
         }
     ]
