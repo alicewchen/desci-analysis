@@ -1,1 +1,1 @@
-`20251111.json` contains data manually collected from https://coinmarketcap.com/view/desci/ on November 12, 2025.
+`20251112.json` contains data manually collected from https://coinmarketcap.com/view/desci/ on November 12, 2025.
