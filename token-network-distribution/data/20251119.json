@@ -19,7 +19,9 @@
             ],
             "wallets": ["metamask","binance","trust"],
             "UCID": "2467",
-            "audits":["quantstamp"]
+            "audits":["quantstamp"],
+            "socials":["x", "reddit","github", "facebook", "telegram"],
+            "explorers":["etherscan", "nansen", "ethplorer"]
         },
         {
             "name": "Bio Protocol",
@@ -40,7 +42,9 @@
             ],
             "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "audits":[],
-            "UCID": "34812"
+            "UCID": "34812",
+            "socials":["x", "telegram", "discord"],
+            "explorers":["etherscan", "nansen", "solscan"]
         },
         {
             "name": "Alchemist AI",
@@ -53,7 +57,9 @@
             ],
             "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34880",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram"],
+            "explorers":["solscan", "nansen"]
         },
         {
             "name": "Pythia",
@@ -66,7 +72,9 @@
             ],
             "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
         "UCID": "35216",
-        "audits":["certik"]
+        "audits":["certik"],
+        "socials":["x", "telegram"],
+        "explorers":["solscan", "nansen"]
         },
         {
             "name": "ResearchCoin",
@@ -81,10 +89,11 @@
                     "network": "base"
                 }
             ],
-            "wallets": ["coinbase","metamask",
-            "ledger","trust","binance"],
+            "wallets": ["coinbase","metamask","ledger","trust","binance"],
             "UCID": "27054",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram","github"],
+            "explorers":["etherscan", "nansen", "ethplorer", "basescan"]
         },
         {
             "name": "Galeon",
@@ -98,7 +107,9 @@
             ],
             "wallets": ["metamask","binance","trust"],
             "UCID": "18662",
-            "audits":["certik"]
+            "audits":["certik"],
+            "socials":["x", "telegram"],
+            "explorers":["etherscan", "nansen", "bscscan"]
         },
         {
             "name": "Dynex",
@@ -111,7 +122,9 @@
             ],
             "wallets": ["trust", "binance"],
             "UCID": "22858",
-            "audits":["cyberscope"]
+            "audits":["cyberscope"],
+            "socials":["x", "github", "telegram", "discord"],
+            "explorers":["etherscan", "nansen", "blockexplorer.dynexcoin"]
         },
         {
             "name": "ValleyDAO",
@@ -127,7 +140,9 @@
             "wallets": ["coinbase", "metamask", "phantom","rabby","solflare", "backpack",
             "trust","binance", "jupiter"],
             "UCID": "29633",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram", "discord","github"],
+            "explorers":["etherscan", "nansen", "solscan"]
         },
         {
             "name": "Rifampicin",
@@ -138,10 +153,11 @@
                     "network": "solana"
                 }
             ],
-            "wallets": ["trust",
-        "solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust","solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34089",
-            "audits":[]
+            "audits":[],
+            "socials":["x"],
+            "explorers":["solscan", "nansen"]
         },
         {
             "name": "Rejuve.AI",
@@ -161,7 +177,9 @@
             ],
             "wallets": ["daedalus","lace","eternl","vespr","binance","trust"],
             "UCID": "23769",
-            "audits":["hacken"]
+            "audits":["hacken"],
+            "socials":["x", "telegram", "facebook","github"],
+            "explorers":["etherscan", "nansen", "bscscan"]
         },
         {
             "name": "Nuco.cloud",
@@ -174,7 +192,9 @@
             ],
             "wallets": ["metamask","binance","trust"],
             "UCID": "6933",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram", "github"],
+            "explorers":["etherscan", "nansen", "ethplorer"]
         },
         {
             "name": "PoSciDonDAO",
@@ -187,7 +207,9 @@
             ],
             "wallets": ["trust"],
             "UCID": "34636",
-            "audits":["cyberscope"]
+            "audits":["cyberscope"],
+            "socials":["x", "telegram", "github", "discord"],
+            "explorers":["nansen", "basescan"]
         },
         {
             "name": "Urolithin A",
@@ -200,7 +222,9 @@
             ],
             "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34090",
-            "audits":[]
+            "audits":[],
+            "socials":["x"],
+            "explorers":["solscan", "nansen"]
         },
         {
             "name": "Aimedis (new)",
@@ -213,7 +237,9 @@
             ],
             "wallets": ["trust"],
             "UCID": "23684",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram", "github", "reddit","facebook"],
+            "explorers":["polygonscan", "nansen"]
         },
         {
             "name": "Neos.ai",
@@ -226,7 +252,9 @@
             ],
             "wallets": ["binance","trust"],
             "UCID": "34418",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram", "discord"],
+            "explorers":["etherscan", "nansen"]
         },
         {
             "name": "Circular Protocol",
@@ -235,7 +263,9 @@
             ],
             "wallets": [],
             "UCID": "32319",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram", "discord","github"],
+            "explorers":["circularlabs.io"]
         },
         {
             "name": "The Innovation Game",
@@ -248,7 +278,9 @@
             ],
             "wallets": ["trust"],
             "UCID": "34102",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "medium", "discord","github","youtube"],
+            "explorers":["nansen", "basescan"]
         },
         {
             "name": "AxonDAO Governance Token",
@@ -261,7 +293,9 @@
             ],
             "wallets": ["gnosis","binance","trust"],
             "UCID": "29557",
-            "audits":["certik","cyberscope"]
+            "audits":["certik","cyberscope"],
+            "socials":["x", "reddit","telegram", "discord","github", "facebook"],
+            "explorers":["etherscan", "nansen", "basescan", "arbiscan"]
         },
         {
             "name": "VitaDAO",
@@ -274,7 +308,9 @@
             ],
             "wallets": ["metamask","binance","trust"],
             "UCID": "19214",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram", "discord","github"],
+            "explorers":["etherscan", "nansen", "ethplorer"]
         },
         {
             "name": "Etica",
@@ -283,7 +319,9 @@
             ],
             "wallets": [],
             "UCID": "24618",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram", "discord","github", "reddit", "youtube"],
+            "explorers":["eticascan", "explorer.etica-stats"]
         },
         {
             "name": "GenomesDao",
@@ -296,7 +334,9 @@
             ],
             "wallets": ["trust"],
             "UCID": "15169",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram"],
+            "explorers":["nansen", "basescan", "etherscan"]
         },
         {
             "name": "HairDAO",
@@ -309,7 +349,9 @@
             ],
             "wallets": ["binance","trust"],
             "UCID": "24138",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "discord"],
+            "explorers":["etherscan", "nansen"]
         },
         {
             "name": "Data Lake",
@@ -322,7 +364,9 @@
             ],
             "wallets": ["binance","trust"],
             "UCID": "23157",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram"],
+            "explorers":["etherscan", "nansen"]
         },
         {
             "name": "Cerebrum DAO",
@@ -335,11 +379,11 @@
                 {"address": "0x3568c7a4f7545805e379c264303239781B4E9A79","network":"base"},
                 {"address": "neuRodi6Saw2cwDpud7FyAcjzqPBJDtr3fDTXE2Fu4j","network":"solana"}
             ],
-            "wallets": ["solflare",
-            "backpack","phantom","binance", 
-            "trust","jupiter"],
+            "wallets": ["solflare","backpack","phantom","binance", "trust","jupiter"],
             "UCID": "31961",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "discord"],
+            "explorers":["etherscan", "nansen", "basescan", "solscan"]
         },
         {
             "name": "Patientory",
@@ -352,7 +396,9 @@
             ],
             "wallets": ["metamask","binance","trust"],
             "UCID": "1708",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram", "discord","github", "reddit", "instagram","facebook"],
+            "explorers":["etherscan", "nansen", "ethplorer"]
         },
         {
             "name": "Welshare Health",
@@ -365,7 +411,9 @@
             ],
             "wallets": ["binance","trust"],
             "UCID": "33949",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram", "discord"],
+            "explorers":["etherscan", "nansen"]
         },
         {
             "name": "DeSci Meme",
@@ -378,7 +426,9 @@
             ],
             "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34188",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram"],
+            "explorers":["nansen", "solscan"]
         },
         {
             "name": "bioDAOs",
@@ -391,7 +441,9 @@
             ],
             "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34329",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram"],
+            "explorers":["nansen", "solscan"]
         },
         {
             "name": "MeAI",
@@ -404,7 +456,9 @@
             ],
             "wallets": ["binance","trust"],
             "UCID": "34560",
-            "audits":["cyberscope"]
+            "audits":["cyberscope"],
+            "socials":["x", "telegram", "discord"],
+            "explorers":["nansen", "bscscan"]
         },
         {
             "name": "Molecule (new)",
@@ -417,7 +471,9 @@
             ],
             "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34817",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram"],
+            "explorers":["nansen", "solscan"]
         },
         {
             "name": "SUI Desci Agents",
@@ -431,7 +487,9 @@
             ],
             "wallets": ["trust", "binance"],
             "UCID": "34882",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram"],
+            "explorers":["nansen", "suivision","suiscan","etherscan"]
         },
         {
             "name": "OpMentis",
@@ -444,7 +502,10 @@
             ],
             "wallets": ["binance","trust"],
             "UCID": "34952",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram"],
+            "explorers":["nansen", "etherscan"]
+
         },
         {
             "name": "Oncology Network",
@@ -457,7 +518,10 @@
             ],
             "wallets": ["binance","trust"],
             "UCID": "34957",
-            "audits":[]
+            "audits":[],
+            "socials":["x"],
+            "explorers":["nansen", "bscscan"]
+
         },
         {
             "name": "DeSci AI Agent",
@@ -471,7 +535,9 @@
             ],
             "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
             "UCID": "35013",
-            "audits":[]
+            "audits":[],
+            "socials":["x", "telegram"],
+            "explorers":["nansen", "solscan"]
         },
         {
             "name": "Senku Ishigami by Virtuals",
@@ -484,7 +550,9 @@
             ],
             "wallets": ["trust"],
             "UCID": "35024",
-            "audits":[]
+            "audits":[],
+            "socials":["x"],
+            "explorers":["nansen", "basescan"]
         }
     ]
 }
