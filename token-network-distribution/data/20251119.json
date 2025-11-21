@@ -40,7 +40,7 @@
                     "network": "base"
                 }
             ],
-            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust", "solflare", "backpack","phantom","binance", "jupiter"],
             "audits":[],
             "UCID": "34812",
             "socials":["x", "telegram", "discord"],
@@ -55,7 +55,7 @@
                     "network": "solana"
                 }
             ],
-            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust", "solflare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34880",
             "audits":[],
             "socials":["x", "telegram"],
@@ -70,7 +70,7 @@
                     "network": "solana"
                 }
             ],
-            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust", "solflare", "backpack","phantom","binance", "jupiter"],
         "UCID": "35216",
         "audits":["certik"],
         "socials":["x", "telegram"],
@@ -153,7 +153,7 @@
                     "network": "solana"
                 }
             ],
-            "wallets": ["trust","solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust","solflare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34089",
             "audits":[],
             "socials":["x"],
@@ -220,7 +220,7 @@
                     "network": "solana"
                 }
             ],
-            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust", "solflare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34090",
             "audits":[],
             "socials":["x"],
@@ -424,7 +424,7 @@
                     "network": "solana"
                 }
             ],
-            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust", "solflare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34188",
             "audits":[],
             "socials":["x", "telegram"],
@@ -439,7 +439,7 @@
                     "network": "solana"
                 }
             ],
-            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust", "solflare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34329",
             "audits":[],
             "socials":["x", "telegram"],
@@ -469,7 +469,7 @@
                     "network": "solana"
                 }
             ],
-            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust", "solflare", "backpack","phantom","binance", "jupiter"],
             "UCID": "34817",
             "audits":[],
             "socials":["x", "telegram"],
@@ -533,7 +533,7 @@
                 },
                 {"address": "0xAEc613188B1E178d42a05d352044D54854C3196a","network":"ethereum"}
             ],
-            "wallets": ["trust", "solfare", "backpack","phantom","binance", "jupiter"],
+            "wallets": ["trust", "solflare", "backpack","phantom","binance", "jupiter"],
             "UCID": "35013",
             "audits":[],
             "socials":["x", "telegram"],
