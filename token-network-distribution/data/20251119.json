@@ -124,7 +124,7 @@
             "UCID": "22858",
             "audits":["cyberscope"],
             "socials":["x", "github", "telegram", "discord"],
-            "explorers":["etherscan", "nansen", "blockexplorer.dynexcoin"]
+            "explorers":["etherscan", "nansen", "dynexcoin"]
         },
         {
             "name": "ValleyDAO",
@@ -321,7 +321,7 @@
             "UCID": "24618",
             "audits":[],
             "socials":["x", "telegram", "discord","github", "reddit", "youtube"],
-            "explorers":["eticascan", "explorer.etica-stats"]
+            "explorers":["eticascan", "etica-stats"]
         },
         {
             "name": "GenomesDao",
